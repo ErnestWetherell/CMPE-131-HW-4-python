@@ -1,0 +1,8 @@
+1. Code Reuse:
+   Inheritance allows a new class to reuse and extend the functionality of an existing class. 
+   This avoids repeating code and helps maintain consistency across related classes.
+
+2. Organization and Maintainability:
+   Inheritance helps structure programs into logical hierarchies.
+   It makes the code easier to read, maintain, and modify by grouping shared behavior 
+   in parent classes and specialized behavior in child classes.
